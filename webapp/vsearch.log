@@ -1,0 +1,4 @@
+ImmutableMultiDict([('phrase', 'poshel'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.114 Safari/537.36|{'e', 'o'}
+ImmutableMultiDict([('phrase', 'you sucking my dick'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.114 Safari/537.36|{'u', 'o', 'i'}
+ImmutableMultiDict([('phrase', 'nahoj'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.114 Safari/537.36|{'o', 'a'}
+ImmutableMultiDict([('phrase', 'you sucking my dick'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.142 Safari/537.36|{'i', 'o', 'u'}

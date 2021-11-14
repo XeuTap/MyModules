@@ -1,0 +1,7 @@
+README.txt
+binarysearch.py
+setup.py
+binsearch.egg-info/PKG-INFO
+binsearch.egg-info/SOURCES.txt
+binsearch.egg-info/dependency_links.txt
+binsearch.egg-info/top_level.txt
